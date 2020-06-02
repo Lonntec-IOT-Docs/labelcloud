@@ -1,2 +1,3 @@
-# labelcloud
-Label Service
+# Headline
+
+> An awesome project.
